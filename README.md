@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">A passionate frontend developer from German</h3>
+<h3 align="center">A passionate frontend developer from Germany</h3>
 
 - 🔭 I’m currently working on [tikkit](https://github.com/F1nal04/tikkit-backend)
 
