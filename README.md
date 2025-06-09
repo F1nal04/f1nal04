@@ -5,9 +5,7 @@
 
 - I’m looking to learn **C and Rust**
 
-- Visit my portfolio at [leonbojanowski.de](https://leonbojanowski.de)
-
-- I sometimes write something on [blog.leonbojanowski.de](https://blog.leonbojanowski.de)
+- Visit my portfolio at [leonbojanowski.de](https://leonbojanowski.de) 
 
 - Contact me at **leongaborbojanowski04@gmail.com**
 
