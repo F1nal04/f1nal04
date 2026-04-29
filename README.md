@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Leon</h1>
 <h3 align="center">An aspiring & passionate developer from Germany</h3>
 
-- I’m currently working on [wattlyzer](https://github.com/F1nal04/wattlyzer) and [essentials](https://github.com/F1nal04/essentials)
+- I’m currently working on [wattlyzer](https://github.com/F1nal04/wattlyzer-app) and [essentials](https://github.com/F1nal04/essentials)
 
 - I’m looking to learn **C and Rust**
 
